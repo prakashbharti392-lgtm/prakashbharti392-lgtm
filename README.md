@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Prakash Bharti! 👋
 
-<!--
-**prakashbharti392-lgtm/prakashbharti392-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🎓 Diploma CSE 4th Semester Student
+- 💻 Data Science Intern
+- 📍 Indore, Madhya Pradesh
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python | Pandas | NumPy
+- Matplotlib | Streamlit
+- MySQL | SQL
+- Machine Learning (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+### 1. Customer Purchase Analysis Dashboard
+- Analyzed 1000 customers data
+- Built interactive dashboard using Streamlit
+- 🔗 [Live Demo](https://customer-purchase-analysis-5pratggm8cpawxeiklnkq2.streamlit.app/)
+- 💻 [GitHub](https://github.com/prakashbharti392-lgtm/customer-purchase-analysis)
+
+## 📫 Connect With Me
+- LinkedIn: [Your LinkedIn Link]
+- GitHub: [github.com/prakashbharti392-lgtm](https://github.com/prakashbharti392-lgtm)
